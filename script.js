@@ -38,15 +38,15 @@ document.addEventListener("DOMContentLoaded", function () {
         <span class="blue">     /  \\     </span>  OS: Arch Linux,Kali Linux
         <span class="blue">    /    \\    </span>  Hostname: nikunj.in
         <span class="blue">   /  /\\  \\   </span>  Time: ${currentTime}
-        <span class="blue">  /  (--)  \\  </span>  Email: <a href="mailto:contact@jkartik.in" class="custom-link">contact@nick.in</a>
-        <span class="blue"> /  /    \\  \\ </span>  GitHub: <a href="https://GitHub.com/KartikJain14" target="_blank" class="custom-link">GitHub.com/NikunjYadav0654</a>
-        <span class="blue">/___\\    /___\\</span>  LinkedIn: <a href="https://LinkedIn.com/in/KartikJain1410" target="_blank" class="custom-link">LinkedIn.com/in/NikunjYadav0654</a>
+        <span class="blue">  /  (--)  \\  </span>  Email: <a href="mailto:nikunjyadav156@gmail.com" class="custom-link">contact@nick.in</a>
+        <span class="blue"> /  /    \\  \\ </span>  GitHub: <a href="https://github.com/nikunjy-ai" target="_blank" class="custom-link">GitHub.com/NikunjYadav0654</a>
+        <span class="blue">/___\\    /___\\</span>  LinkedIn: <a href="linkedin.com/in/nikunj-yadav-8b5363250" target="_blank" class="custom-link">LinkedIn.com/in/NikunjYadav0654</a>
         </pre>`;
         },
 
         github: () => {
             window.open("https://github.com/nikunjyadav", "_blank");
-            return `Opening <a href="https://github.com/nikunjyadav/" target="_blank" class="custom-link">GitHub/nikunjyadav</a>...`;
+            return `Opening <a href="https://github.com/nikunjy-ai" target="_blank" class="custom-link">GitHub/nikunjyadav</a>...`;
         },
 
         linkedin: () => {
@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
         - CI/CD: Docker, GitHub CI/CD<br>
         - Cloud: Azure, AWS, GCP, Oracle Cloud<br>
         - Tools: Postman, BurpSuite, Nmap, Cloudflared<br>
-        - OS: Arch Linux, Ubuntu, Windows
+        - OS: Arch Linux, Kali Linux, Ubuntu, Windows,Mac OS
         `,
         others: `
         - Rapid learner with a strong ability to adapt to new technologies<br>
